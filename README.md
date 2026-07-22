@@ -1,7 +1,7 @@
 Hi, I'm Jorge Fajardo 👋
 Bridging Chemical Engineering and Computational Intelligence
 
-I am a Process Engineer specializing in translating complex plant dynamics into optimized, automated code. I help industries reduce waste, prevent bottlenecks, and optimize cycle times through data-driven engineering.
+I am a Chemical Engineer specializing in translating complex plant dynamics into optimized, automated code. I help industries reduce waste, prevent bottlenecks, and optimize cycle times through data-driven engineering.
 
 ⚙️ Tech Stack & Tools:
 
